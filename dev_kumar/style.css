@@ -537,12 +537,13 @@ body {
 /* -----------------------slider section start here -------------- */
 .main1{
   height: 90vh;
+  width: 90%;
 }
 .container {
     width: 90%;
     height: 500px;
     background-color: aquamarine;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
   }
   .container img{
     display: none;
@@ -611,7 +612,8 @@ body {
 
 
 .product {
-  border: 5px solid red;
+  /* width: 120%; */
+  /* border: 5px solid red; */
   background: rgb(146, 146, 146);
   margin: 1% 4%;
   margin-top: 0;
